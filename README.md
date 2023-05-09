@@ -6,8 +6,8 @@
   <a href="https://www.npmjs.com/package/@react-os/core"><img src="https://flat.badgen.net/npm/license/@react-os/core" alt="@react-os/core license" /></a>
 </p>
 <h3 align="center">
-  <a href="https://storybook.react95.io/?path=/story/window--default">Components</a> -
-  <a href="https://coins95.web.app/">Demo</a>
+  <a href="https://react-os-docs.netlify.app">Docs</a> -
+  <a href="https://react-os-demo.netlify.app">Demo</a>
 </h3>
 <p align="center">
   <b>Refreshed</b> UI components for your vintage web OS.</p>
@@ -71,7 +71,7 @@ export default App
 
 # Submit your project
 
-Apps built with ReactOS will be featured on the official [website](https://react95.io).
+Apps built with ReactOS will be featured on the official [website](https://react-os-docs.netlify.app).
 
 # Contributing
 
